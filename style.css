@@ -1,0 +1,21 @@
+body {
+    background-image: url("./image.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+#gighubhead{
+    background: orange;
+    text-align: center;
+    padding: 10px;
+    border-bottom: solid black 1px;
+}
+.homebtns{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20%;
+}
+#fanbandbtn{
+    background-color: grey;
+    font-size: 50px;
+    padding:30px;
+}
